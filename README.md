@@ -19,7 +19,7 @@ This project is a web-based application built with Flask that analyzes emotions 
 - **IBM Watson NLP API**: IBM's Natural Language Processing service is used to analyze emotions in text.
 - **Unittest**: Python's built-in testing framework for testing the emotion detection functionality.
 
-## IBM Watson Integration
+## Final Project- IBM Watson Integration
 
 This project uses IBM Watson's NLP API to perform emotion detection. The `emotion_detector()` function sends a POST request to the IBM Watson API endpoint with the text to be analyzed and processes the response to extract the emotion scores.
 
